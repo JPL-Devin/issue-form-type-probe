@@ -1,0 +1,7 @@
+name: ZZ Probe A (no type key)
+description: Temporary probe - no type key
+body:
+  - type: input
+    id: probe
+    attributes:
+      label: Probe
