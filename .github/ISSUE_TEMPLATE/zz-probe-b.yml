@@ -1,8 +1,0 @@
-name: ZZ Probe B (with type key)
-description: Temporary probe - has type key
-type: task
-body:
-  - type: input
-    id: probe
-    attributes:
-      label: Probe
